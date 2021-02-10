@@ -18,6 +18,7 @@ favicon: favicon.ico
 repository: Louis0168/Louis.github.io
 github_url: https://github.com/Louis0168
 url: https://www.Louis.github.io
+enforce ssl: http://ityouknow.com
 ## Gem
 plugins:
   - jekyll-paginate
